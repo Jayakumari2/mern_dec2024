@@ -1,0 +1,10 @@
+#btn{
+    background-color: aquamarine;
+    margin-top: 1%;
+}
+#inputfield{
+    width:1400px;
+    border-color: rgb(122, 224, 242);
+    border-width: 2%;
+    border-style: double;
+}

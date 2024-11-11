@@ -1,0 +1,10 @@
+.container{
+    margin-left: 30%;
+    margin-top: 7%;
+    border: 0cap;
+    border-color: black;
+    border-style: dashed;
+}
+#button{
+    background-color: rgb(73, 226, 231);
+}
